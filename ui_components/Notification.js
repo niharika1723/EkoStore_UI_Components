@@ -36,8 +36,8 @@ class Notification extends Component {
                 <TextInput style={globalStyles.search} placeholder="Search" />
 
                 <TouchableOpacity style={globalStyles.soundIcon}>
-                        <Image style={globalStyles.soundImage} source={require("../assets/Image/sound.png")} />
-                    </TouchableOpacity>
+                    <Image style={globalStyles.soundImage} source={require("../assets/Image/sound.png")} />
+                </TouchableOpacity>
              </View>
   
 
